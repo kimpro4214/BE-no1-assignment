@@ -2,7 +2,7 @@ package LV3;
 
 import java.util.Scanner;
 
-public class Application {
+public class CalculatorLV3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArithmeticCalculator<Number> calculator = new ArithmeticCalculator<>();
